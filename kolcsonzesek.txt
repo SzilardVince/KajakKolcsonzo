@@ -1,0 +1,7 @@
+Kovács Péter;KENU;4;3;0
+Nagy Anna;KAJAK;2;1;15
+Szabó Gábor;KENU;6;4;35
+Tóth Dóra;KAJAK;1;1;0
+Horváth Bence;KENU;5;2;0
+Varga Eszter;KAJAK;3;2;10
+Molnár Tamás;KENU;2;3;40
